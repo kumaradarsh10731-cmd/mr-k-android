@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_description">Allows MR. K to interact with on-screen controls only when you explicitly enable the service and issue a command.</string>
+</resources>
